@@ -26,3 +26,6 @@ Contact Information
 Email: oluwaseunonigbinde94@gmail.com
 LinkedIn: https://www.linkedin.com/in/oluwaseun-onigbinde-85722b174/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsAJP94nERxO4MxBJjGcOiw%3D%3D
 Location: Ibadan, Nigeria
+
+Dashboard Preview
+[FMCG Sales Overview](FMCG%20Sales20Overview.png)
