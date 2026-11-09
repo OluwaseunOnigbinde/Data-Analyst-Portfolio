@@ -29,3 +29,6 @@ Location: Ibadan, Nigeria
 
 Dashboard Preview
 [FMCG Sales Overview](FMCG%20Sales%20Overview.png.png)
+
+Project Files
+[Download FMCG Power BI Dashboard] (./Oluwaseun_Onigbinde_FMCG_Sales_Analysis.pbix.pbix)
