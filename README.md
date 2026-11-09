@@ -28,4 +28,4 @@ LinkedIn: https://www.linkedin.com/in/oluwaseun-onigbinde-85722b174/?lipi=urn%3A
 Location: Ibadan, Nigeria
 
 Dashboard Preview
-[FMCG Sales Overview](FMCG%20Sales20Overview.png)
+[FMCG Sales Overview](FMCG Sales Overview.png.png)
