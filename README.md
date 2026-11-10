@@ -35,3 +35,8 @@ Location: Ibadan, Nigeria
 [Download FMCG Power BI Dashboard](./FMCG%20SALES%20DATA%20RAW%20DATA.xlsx)
 [Read FMCG Case Study](./Oluwaseun_Onigbinde_FMCG_Sales_Performance_Document.docx)
 [View Portfolio Overview](./Oluwaseun%20Onigbinde%20Data%20Analyst%20Portfolio%20Overview.pdf)
+
+### My Projects
+**01. FMCG Sales Performance Analysis**
+A Power BI project analyzing sales performance, revenue trends, profitability and business insights.
+[Explore FMCG Project](./01-FMCG-Sales-Performance/)
